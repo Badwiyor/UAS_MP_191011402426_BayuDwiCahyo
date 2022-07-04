@@ -23,7 +23,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('flutter http'),
+        title: Text('191011402426_BAYU DWI CAHYO'),
       ),
       body: ListView.builder(
         itemCount: _posts.length,
